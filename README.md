@@ -64,4 +64,4 @@
     <p>© 2025 Waseem Mirza | All Rights Reserved</p>
   </footer>
 </body>
-</html>
+</html>index.html
